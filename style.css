@@ -10,7 +10,7 @@ background-image: url(donation13.jpg);background-repeat: no-repeat;background-si
 .headline-round{margin-right: 50px;margin-left: 150px ;color: orangered;background-color:orange;border: 2px solid tomato;padding: 10px;}
 .input{margin-bottom: 30px;border-top: none;border-left: none;border-right: none;width: 400px;}
 
-.third-sec{text-align: center;margin-bottom: 30px;}
+.third-sec{text-align: center;margin-bottom: 100px;}
 .third-headline{margin-bottom: 100px;}
 .parent{display: flex;}
 .first-child{background-color:skyblue;margin-right: 5%;text-align: left;padding-left: 10px;}
@@ -19,6 +19,15 @@ background-image: url(donation13.jpg);background-repeat: no-repeat;background-si
 .second-child img{height: 90px;padding-right: 80%;}
 .third-child{background-color: beige;text-align: left;padding-left: 10px;}
 .third-child img{height: 100px;padding-right: 70%;width: 80px;}
+
+.forth-sec{display: flex;}
+.forth-sec img{width: 80%;}
+.forth-div{width: 50%;padding-left: 60px;}
+.first-para{margin-bottom: 10%;}
+.five-sec{text-align: center;}
+.last-div{background-color: antiquewhite;padding-top: 50px;padding-bottom: 50px;margin-bottom: 50px;}
+.last-input{height: 40px;}
+
 
 footer{background-color: black;height: 100px;}
 footer h1{font-style: italic;text-align: center;color: red;font-size: large;padding-top: 20px;}
