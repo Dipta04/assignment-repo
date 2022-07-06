@@ -5,12 +5,12 @@ background-image: url(donation13.jpg);background-repeat: no-repeat;background-si
 .first-div{margin-bottom: 50px;font-size: 30px;}
 
 .second-sec{text-align: center;margin-bottom: 100px;}
-.second-div{display: flex;}
+.second-div{display: flex;margin-bottom: 5%;}
 .headline{margin-right: 50px;margin-left: 150px;}
 .headline-round{margin-right: 50px;margin-left: 150px ;color: orangered;background-color:orange;border: 2px solid tomato;padding: 10px;}
 .input{margin-bottom: 30px;border-top: none;border-left: none;border-right: none;width: 400px;}
 
-.third-sec{text-align: center;}
+.third-sec{text-align: center;margin-bottom: 30px;}
 .third-headline{margin-bottom: 100px;}
 .parent{display: flex;}
 .first-child{background-color:skyblue;margin-right: 5%;text-align: left;padding-left: 10px;}
@@ -19,3 +19,7 @@ background-image: url(donation13.jpg);background-repeat: no-repeat;background-si
 .second-child img{height: 90px;padding-right: 80%;}
 .third-child{background-color: beige;text-align: left;padding-left: 10px;}
 .third-child img{height: 100px;padding-right: 70%;width: 80px;}
+
+footer{background-color: black;height: 100px;}
+footer h1{font-style: italic;text-align: center;color: red;font-size: large;padding-top: 20px;}
+footer p{text-align: center;color: white;font-size: small;font-weight: 300;}
