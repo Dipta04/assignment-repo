@@ -1,0 +1,5 @@
+body{font-family: 'Poppins', sans-serif;}
+.first-sec{text-align: center;color: white; padding-bottom: 10%;
+background-image: url(donation13.jpg);background-repeat: no-repeat;background-size: 100%;}
+.button{ text-decoration:none;background-image: linear-gradient(tomato,orange);color: white;padding:10px 30px;margin-top: 50px;}
+.first-div{margin-bottom: 50px;}
