@@ -1,5 +1,11 @@
 body{font-family: 'Poppins', sans-serif;}
 .first-sec{text-align: center;color: white; padding-bottom: 10%;
-background-image: url(donation13.jpg);background-repeat: no-repeat;background-size: 100%;}
+background-image: url(donation13.jpg);background-repeat: no-repeat;background-size: 100%;margin-bottom: 100px;}
 .button{ text-decoration:none;background-image: linear-gradient(tomato,orange);color: white;padding:10px 30px;margin-top: 50px;}
 .first-div{margin-bottom: 50px;}
+
+.second-sec{text-align: center;}
+.second-div{display: flex;}
+.headline{margin-right: 50px;margin-left: 150px;}
+.headline-round{margin-right: 50px;margin-left: 150px ;color: orangered;background-color:orange;border: 2px solid tomato;padding: 10px;}
+.input{margin-bottom: 30px;border-top: none;border-left: none;border-right: none;width: 400px;}
